@@ -1,4 +1,4 @@
-const add=require("../backend/index")
+const add=require("./index")
 const assert=require("assert")
 try{
     var sum=7;
